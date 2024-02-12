@@ -12,4 +12,4 @@ Make a Odin game that contain:
 Design for HTML CSS
 ![Screenshot](./img/screenshot.png)
 
-Live : https://rahmatsatyawan.github.io/odin-skecth/
+Live : https://rahmatsatyawan.github.io/odin-sketch/
